@@ -7,8 +7,8 @@
 
 # How to Run an App Locally
 ### Install
-- [Node.js](nodejs.org/es/download/)
-- [yarn](classic.yarnpkg.com/en/docs/install)
+- [Node.js](https://nodejs.org/es/download/)
+- [yarn](https://classic.yarnpkg.com/en/docs/install)
 ### Commands in bash
 _Install dependencies_
 ```
