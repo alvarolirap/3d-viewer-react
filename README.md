@@ -6,6 +6,10 @@
 - display loading progress on Three Model in React app
 
 # How to Run an App Locally
+### Install Node.js
+Download: (nodejs.org/es/download/)
+### Install yarn
+Download: (classic.yarnpkg.com/en/docs/install)
 ### Commands in bash
 _Install dependencies_
 ```
