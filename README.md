@@ -57,7 +57,7 @@ yarn build
 - Deploy app
 ```
 yarn deploy
-``
+```
 
 
 
