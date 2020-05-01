@@ -1,4 +1,4 @@
-# Run App Locally
+# Run app locally
 - Install [Node.js](https://nodejs.org/es/download/)
 - Intall [yarn](https://classic.yarnpkg.com/en/docs/install)
 - Install dependencies
@@ -9,7 +9,7 @@ yarn install
 ```
 yarn run
 ```
-# Deploy App on internet
+# Deploy app on internet
 
 - Install [awscli](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html)
 - Go to [AWS Educate Console](https://labs.vocareum.com/)
