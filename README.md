@@ -1,15 +1,6 @@
-# App Features
-
-- loading an OBJ Model into a scene
-- Three.js OrbitControls integration
-- scene resize on window resize
-- display loading progress on Three Model in React app
-
-# How to Run an App Locally
-### Install
-- [Node.js](https://nodejs.org/es/download/)
-- [yarn](https://classic.yarnpkg.com/en/docs/install)
-### Commands in bash
+# Run App Locally
+- Install [Node.js](https://nodejs.org/es/download/)
+- Intall [yarn](https://classic.yarnpkg.com/en/docs/install)
 - Install dependencies
 ```
 yarn install
@@ -18,7 +9,7 @@ yarn install
 ```
 yarn run
 ```
-### Deploy App in AWS S3
+# Deploy App on internet
 
 - Install [awscli](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html)
 - Go to [AWS Educate Console](https://labs.vocareum.com/)
