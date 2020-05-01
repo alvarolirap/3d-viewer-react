@@ -27,7 +27,7 @@ const sections = [
   { title: 'Maranga', url: '#' },
   { title: 'Nazca', url: '#' },
   { title: 'Pando', url: '#' },
-  { title: 'HOLA', url: '#' },
+  { title: 'Supe', url: '#' },
 ];
 
 const mainFeaturedPost = {
