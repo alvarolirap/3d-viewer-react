@@ -22,19 +22,24 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 const sections = [
-  { title: 'Chancay', url: '#' },
-  { title: 'Lurín', url: '#' },
-  { title: 'Maranga', url: '#' },
-  { title: 'Nazca', url: '#' },
-  { title: 'Pando', url: '#' },
-  { title: 'Supe', url: '#' },
+  { title: 'Vessel', url: '#' },
+  { title: 'Cone Vase', url: '#' },
+  { title: 'Bowl', url: '#' },
+  { title: 'Plate', url: '#' },
+  { title: 'Basin', url: '#' },
+  { title: 'Statue', url: '#' },
+  { title: 'Animal Bottle', url: '#' },
+  { title: 'Hollow', url: '#' },
+  { title: 'Vase', url: '#' },
+  { title: 'Animal Head', url: '#' },
+  { title: 'Flat Canteen', url: '#' },
 ];
 
 const mainFeaturedPost = {
-  title: 'Lurín',
+  title: 'Vessel',
   description:
-    "Huacos de la cultura Lurín",
-  image: 'https://arqueologiadelperu.com/wp-content/uploads/2012/11/santuario_pachacamac.jpg',
+    "Vasijas",
+  image: 'https://i.pinimg.com/564x/46/d4/52/46d452cf940320bb8f5da9effa1ecf9f.jpg',
   imgText: 'main image description',
   //linkText: 'Continue reading…',
 };
@@ -61,12 +66,11 @@ const mainFeaturedPost = {
 const sidebar = {
   title: 'Acerca',
   description:
-    'Típica vasija de la cultura Lurín del siglo XIII encontrada en Pachacamac.',
+    'Típica vasija del siglo XIII encontrada en Lurín Ver imagen de pieza arqueológica incompleta',
   archives: [
     { title: 'Enero 2020', url: '#' },
     { title: 'Febrero 2020', url: '#' },
     { title: 'Marzo 2020', url: '#' },
-
   ],
   social: [
     { name: 'Instagram', icon: InstagramIcon },
